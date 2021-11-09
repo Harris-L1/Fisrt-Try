@@ -1,0 +1,11 @@
+Model Information:
+* title:	Herb Pouch
+* source:	https://sketchfab.com/3d-models/herb-pouch-db4edce84cb64a949f651c2b6658bd37
+* author:	lamborado (https://sketchfab.com/lamborado)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Herb Pouch" (https://sketchfab.com/3d-models/herb-pouch-db4edce84cb64a949f651c2b6658bd37) by lamborado (https://sketchfab.com/lamborado) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
