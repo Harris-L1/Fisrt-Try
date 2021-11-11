@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grave
+* source:	https://sketchfab.com/3d-models/grave-81d52cf6315f42f18926bcf8a6c2db12
+* author:	Avgust9 (https://sketchfab.com/Avgust9)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grave" (https://sketchfab.com/3d-models/grave-81d52cf6315f42f18926bcf8a6c2db12) by Avgust9 (https://sketchfab.com/Avgust9) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
